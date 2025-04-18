@@ -1,8 +1,6 @@
 # Delta-Modulation
 # Aim
-```
-Write the objective of the experiment.
-```
+Write a Python program for the modulation and demodulation of Delta Modulation.
 # Tools required
 # Program
 ```
